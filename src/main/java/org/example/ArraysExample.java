@@ -44,6 +44,6 @@ public class ArraysExample {
         nums7[0] = new int[5];
         nums7[1] = new int[3];
         nums7[2] = new int[8];
-        System.out.println();
+        System.out.println(nums7);
     }
 }
